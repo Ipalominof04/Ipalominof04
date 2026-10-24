@@ -18,7 +18,7 @@
 
 I'm a **fullstack developer** with almost **two years of professional experience**, the last year focused on **C#**. My education combines **DAM** (Cross-Platform Application Development) and **SMR** (Microcomputer Systems and Networks), giving me a solid foundation in both programming and infrastructure.
 
-I specialized in **video game development**, which gives me a different perspective when tackling performance issues and complex logic. I've also worked in IT support, system maintenance and team coordination using **Scrum**.
+I specialized in **videogame development**, which gives me a different perspective when tackling performance issues and complex logic. I've also worked in IT support, system maintenance and team coordination using **Scrum**.
 
 ---
 
