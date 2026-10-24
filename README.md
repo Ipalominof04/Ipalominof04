@@ -94,8 +94,8 @@ I specialized in **videogame development**, which gives me a different perspecti
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ipalominof04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipalominof04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ipalominof04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&v=2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipalominof04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&v=2" />
 </p>
 
 ---
