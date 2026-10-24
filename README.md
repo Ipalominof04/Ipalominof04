@@ -10,14 +10,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Terrassa,_Barcelona-0f172a?style=for-the-badge&labelColor=0f172a&color=38bdf8" />
   <img src="https://img.shields.io/badge/💼_Open_to_work-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" />
-  <img src="https://img.shields.io/badge/🧩_Scrum-0f172a?style=for-the-badge&labelColor=0f172a&color=a78bfa" />
 </p>
 
 ---
 
 ## 👋 About me
 
-I'm a **backend developer** with almost **two years of professional experience**, the last year focused on **C#**. My education combines **DAM** (Cross-Platform Application Development) and **SMR** (Microcomputer Systems and Networks), giving me a solid foundation in both programming and infrastructure.
+I'm a **fullstack developer** with almost **two years of professional experience**, the last year focused on **C#**. My education combines **DAM** (Cross-Platform Application Development) and **SMR** (Microcomputer Systems and Networks), giving me a solid foundation in both programming and infrastructure.
 
 I specialized in **video game development**, which gives me a different perspective when tackling performance issues and complex logic. I've also worked in IT support, system maintenance and team coordination using **Scrum**.
 
