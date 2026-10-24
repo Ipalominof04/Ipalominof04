@@ -1,10 +1,10 @@
 <!-- Gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Iv%C3%A1n%20Palomino&fontSize=60&fontColor=f1f5f9&fontAlignY=38&desc=Backend%20Developer&descSize=22&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Iv%C3%A1n%20Palomino&fontSize=60&fontColor=f1f5f9&fontAlignY=38&desc=FullStack%20Developer&descSize=22&descAlignY=60" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+%7C+C%23+%7C+.NET;Terrassa%2C+Barcelona;Open+to+opportunities+in+Spain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+%7C+Spring+%7C+C%23+%7C+.NET;Terrassa%2C+Barcelona;Open+to+opportunities+in+Spain" alt="Typing SVG" />
 </p>
 
 <p align="center">
