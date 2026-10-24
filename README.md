@@ -1,29 +1,29 @@
-<!-- Cabecera con degradado -->
+<!-- Gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Iv%C3%A1n%20Palomino&fontSize=60&fontColor=f1f5f9&fontAlignY=38&desc=Desarrollador%20Backend&descSize=22&descAlignY=60" alt="Cabecera" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Iv%C3%A1n%20Palomino&fontSize=60&fontColor=f1f5f9&fontAlignY=38&desc=Backend%20Developer&descSize=22&descAlignY=60" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+%7C+C%23+%7C+.NET;Terrassa%2C+Barcelona;Abierto+a+nuevas+oportunidades+en+Espa%C3%B1a" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+%7C+C%23+%7C+.NET;Terrassa%2C+Barcelona;Open+to+opportunities+in+Spain" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Terrassa,_Barcelona-0f172a?style=for-the-badge&labelColor=0f172a&color=38bdf8" />
-  <img src="https://img.shields.io/badge/💼_Buscando_empleo-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" />
+  <img src="https://img.shields.io/badge/💼_Open_to_work-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" />
   <img src="https://img.shields.io/badge/🧩_Scrum-0f172a?style=for-the-badge&labelColor=0f172a&color=a78bfa" />
 </p>
 
 ---
 
-## 👋 Sobre mí
+## 👋 About me
 
-Soy **desarrollador backend** con casi **dos años de experiencia profesional**, el último año centrado en **C#**. Mi formación combina **DAM** (Desarrollo de Aplicaciones Multiplataforma) y **SMR** (Sistemas Microinformáticos y Redes), lo que me da una base sólida tanto en programación como en infraestructura.
+I'm a **backend developer** with almost **two years of professional experience**, the last year focused on **C#**. My education combines **DAM** (Cross-Platform Application Development) and **SMR** (Microcomputer Systems and Networks), giving me a solid foundation in both programming and infrastructure.
 
-Tengo una especialización en **desarrollo de videojuegos**, que me aporta una perspectiva distinta para resolver problemas de rendimiento y lógica compleja. También he trabajado en soporte IT, mantenimiento de sistemas y coordinación de equipos con **Scrum**.
+I specialized in **video game development**, which gives me a different perspective when tackling performance issues and complex logic. I've also worked in IT support, system maintenance and team coordination using **Scrum**.
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech stack
 
 ### ⚙️ Backend
 
@@ -45,7 +45,7 @@ Tengo una especialización en **desarrollo de videojuegos**, que me aporta una p
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -53,7 +53,7 @@ Tengo una especialización en **desarrollo de videojuegos**, que me aporta una p
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧰 Herramientas y metodologías
+### 🧰 Tools & methodologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,7 +63,7 @@ Tengo una especialización en **desarrollo de videojuegos**, que me aporta una p
 </p>
 
 <details>
-<summary><b>Versión compacta (iconos)</b></summary>
+<summary><b>Compact version (icons)</b></summary>
 <br>
 
 <p>
@@ -74,42 +74,42 @@ Tengo una especialización en **desarrollo de videojuegos**, que me aporta una p
 
 ---
 
-## 🎓 Formación
+## 🎓 Education
 
-| Título | Ámbito |
+| Qualification | Focus |
 |:--|:--|
-| **DAM** · Desarrollo de Aplicaciones Multiplataforma | Programación, bases de datos, desarrollo de aplicaciones |
-| **SMR** · Sistemas Microinformáticos y Redes | Sistemas, redes y mantenimiento |
-| **Especialización** en desarrollo de videojuegos | Lógica, rendimiento y arquitectura |
+| **DAM** · Cross-Platform Application Development | Programming, databases, application development |
+| **SMR** · Microcomputer Systems and Networks | Systems, networking and maintenance |
+| **Specialization** in video game development | Logic, performance and architecture |
 
 ---
 
-## 💼 Experiencia en breve
+## 💼 Experience at a glance
 
-- 🧑‍💻 Desarrollo de software (casi 2 años; ~1 año con **C#**)
-- 🖥️ Soporte IT y mantenimiento de sistemas
-- 👥 Coordinación de equipos con **Scrum**
+- 🧑‍💻 Software development (almost 2 years; ~1 year with **C#**)
+- 🖥️ IT support and system maintenance
+- 👥 Team coordination using **Scrum**
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" />
 </p>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=0f172a" /></a>
-  <a href="https://TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=0f172a" /></a>
+  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=100&section=footer" alt="Pie" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=100&section=footer" alt="Footer" />
 </p>
