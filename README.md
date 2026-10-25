@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Terrassa,_Barcelona-0f172a?style=for-the-badge&labelColor=0f172a&color=38bdf8" />
+  <img src="https://img.shields.io/badge/📍_Barcelona,_Spain-0f172a?style=for-the-badge&labelColor=0f172a&color=38bdf8" />
   <img src="https://img.shields.io/badge/💼_Open_to_work-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" />
 </p>
 
