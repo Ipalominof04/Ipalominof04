@@ -28,7 +28,7 @@ I specialized in **videogame development**, which gives me a different perspecti
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-F5CC27?style=for-the-badge&logo=pyhton&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -59,6 +59,7 @@ I specialized in **videogame development**, which gives me a different perspecti
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6366F1?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
@@ -67,7 +68,7 @@ I specialized in **videogame development**, which gives me a different perspecti
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,js,ts,react,mysql,postgres,mongodb,git,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,spring,cs,dotnet,php,js,ts,react,html,css,mysql,postgres,mongodb,git,github,gitlab,json&theme=dark" />
 </p>
 
 </details>
