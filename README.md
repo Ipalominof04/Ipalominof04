@@ -22,10 +22,10 @@ I specialized in **videogame development**, which gives me a different perspecti
 
 <p>
   <a href="https://www.linkedin.com/in/TU-USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=%20%20%20&color=0f172a&labelColor=0f172a&style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   <a href="https://TU-WEB.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_my_website-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0f172a" alt="Portfolio" />
   </a>
 </p>
 
