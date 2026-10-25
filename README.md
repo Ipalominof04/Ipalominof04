@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=FullStack+Developer;Terrassa%2C+Barcelona;Open+to+opportunities+in+Spain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+%7C+Spring+%7C+C%23+%7C+.NET;Terrassa%2C+Barcelona;Open+to+opportunities+in+Spain" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,6 +19,15 @@
 I'm a **fullstack developer** with almost **two years of professional experience**, the last year focused on **C#**. My education combines **DAM** (Cross-Platform Application Development) and **SMR** (Microcomputer Systems and Networks), giving me a solid foundation in both programming and infrastructure.
 
 I specialized in **videogame development**, which gives me a different perspective when tackling performance issues and complex logic. I've also worked in IT support, system maintenance and team coordination using **Scrum**.
+
+<p>
+  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://TU-WEB.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_my_website-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -85,7 +94,7 @@ I specialized in **videogame development**, which gives me a different perspecti
 
 ---
 
-## 💼 Experience
+## 💼 Experience at a glance
 
 - 🧑‍💻 Software development (almost 2 years; ~1 year with **C#**)
 - 🖥️ IT support and system maintenance
