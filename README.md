@@ -85,7 +85,7 @@ I specialized in **videogame development**, which gives me a different perspecti
 
 ---
 
-## 💼 Experience at a glance
+## 💼 Experience
 
 - 🧑‍💻 Software development (almost 2 years; ~1 year with **C#**)
 - 🖥️ IT support and system maintenance
